@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Светофоры", "Светофоры\Светофоры.csproj", "{67267AD9-7C41-4F44-BC23-3A1513923DB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Компоненты решения", "Компоненты решения", "{E1199682-7447-4107-B30C-EE2C6F0D0D65}"
+	ProjectSection(SolutionItems) = postProject
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\000.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\000.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\001.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\001.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\002.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\002.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\004.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\004.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\005.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\005.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\006.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\006.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\007.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\007.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\008.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\008.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\009.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\009.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0010.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0010.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0012.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0012.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0013.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0013.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0014.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0014.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0015.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0015.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0016.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0016.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0017.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0017.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0018.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0018.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0019.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0019.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0021.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0021.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0022.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0022.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0024.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0024.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0026.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0026.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0027.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0027.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0029.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0029.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0031.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0031.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0032.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\0032.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\9999.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\9999.jpg
+		..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\рррр.jpg = ..\..\Users\Admin\Desktop\КНИГИ для ПО\СВЕТОФОРЫ\рррр.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67267AD9-7C41-4F44-BC23-3A1513923DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67267AD9-7C41-4F44-BC23-3A1513923DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67267AD9-7C41-4F44-BC23-3A1513923DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67267AD9-7C41-4F44-BC23-3A1513923DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
